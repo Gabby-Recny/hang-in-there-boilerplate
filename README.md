@@ -18,7 +18,7 @@ The General Electric Posters web application that allows the user to interact wi
 
 ## Project collaborators
 - Gabby Recny https://github.com/Gabby-Recny
-- Emily Corcoran
+- Emily Corcoran https://github.com/Emily-Cathleen
 
 ## Challenges
 - GitHub workflow
