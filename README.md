@@ -6,7 +6,8 @@ The General Electric Posters web application that allows the user to interact wi
 **To access the deployed project** [CLICK HERE](file:///Users/emilycorcoran/general-electric-posters/index.html)
 
 
-![Uploading Screen Shot 2021-09-05 at 9.20.08 PM.png…]()
+<img width="960" alt="Screen Shot 2021-09-05 at 9 20 08 PM" src="https://user-images.githubusercontent.com/84749512/132152043-041f4dfc-9ce3-4036-8a8e-502b4bc55245.png">
+
 
 
 ## Technologies
@@ -15,12 +16,14 @@ The General Electric Posters web application that allows the user to interact wi
 - CSS
 - Atom
 
+<img width="477" alt="Screen Shot 2021-09-05 at 9 21 24 PM" src="https://user-images.githubusercontent.com/84749512/132151935-cafd2bf6-a731-4fe4-b607-941f51a8917e.png">
+
 ## Project Specs
 
 - Instructions and Rubric for this project can be found [HERE.](https://frontend.turing.edu/projects/module-1/hang-in-there.html)
 
 
-![Uploading Screen Shot 2021-09-05 at 9.20.36 PM.png…]()
+<img width="1392" alt="Screen Shot 2021-09-05 at 9 20 45 PM" src="https://user-images.githubusercontent.com/84749512/132152038-f722ca6c-490a-466d-ae36-301382e7d6c4.png">
 
 ## Project collaborators
 - Gabby Recny [GitHub](https://github.com/Gabby-Recny)
@@ -29,8 +32,6 @@ The General Electric Posters web application that allows the user to interact wi
 ## Challenges
 - GitHub workflow
 - Scheduling constraints
-
-<img width="477" alt="Screen Shot 2021-09-05 at 9 21 24 PM" src="https://user-images.githubusercontent.com/84749512/132151935-cafd2bf6-a731-4fe4-b607-941f51a8917e.png">
 
 
 
