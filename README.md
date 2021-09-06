@@ -17,8 +17,8 @@ The General Electric Posters web application that allows the user to interact wi
 - Instructions and Rubric for this project can be found [HERE.](https://frontend.turing.edu/projects/module-1/hang-in-there.html)
 
 ## Project collaborators
-- Gabby Recny https://github.com/Gabby-Recny
-- Emily Corcoran https://github.com/Emily-Cathleen
+- Gabby Recny [GitHub](https://github.com/Gabby-Recny)
+- Emily Corcoran [GitHub](https://github.com/Emily-Cathleen)
 
 ## Challenges
 - GitHub workflow
