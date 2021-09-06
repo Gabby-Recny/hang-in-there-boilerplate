@@ -1,18 +1,33 @@
-# Hang In There
+# Hang In There - Paired Project
 
-A boilerplate repo. 
+## Description
 
-## Set Up
+The General Electric Posters web application that allows the user to interact with a randomized algorithm and even create their own unique motivational poster. The user is able to express their personality through a personal image URL and generated text. The user is also equipped to save their favorite posters in a list that they can refer back to and delete a poster by double clicking on the image.
+**To access the deployed project** [CLICK HERE](file:///Users/emilycorcoran/general-electric-posters/index.html)
 
-1. One teammate: fork this repository
-2. Clone down your new, forked repo
-3. cd into the repository
-4. Open it in your text editor
-5. Add all project partners and your assigned instructor as collaborators on the repository
 
-Project spec & rubric can be found [here](https://frontend.turing.io/projects/module-1/hang-in-there.html)
+## Technologies
+- Javascript
+- HTML
+- CSS
+- Atom
 
-To view your project:
+## Project Specs
 
-1. In your terminal, navigate to your project repo
-2. Run the command `open index.html`
+- Instructions and Rubric for this project can be found [HERE.](https://frontend.turing.edu/projects/module-1/hang-in-there.html)
+
+## Project collaborators
+- Gabby Recny https://github.com/Gabby-Recny
+- Emily Corcoran
+
+## Challenges
+- GitHub workflow
+- Scheduling constraints
+
+## Team Wins
+
+- Collaborated and communicated towards each others learning styles and personal needs
+- Expanded knowledge of inner workings of the DOM by manipulating HTML and CSS elements using Javascript
+- Time management
+- Created methods for user interaction and customization
+- Utilizing beginner knowledge of HTML and CSS to create interactive web page
